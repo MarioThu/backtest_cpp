@@ -1,0 +1,3 @@
+ticker: "BTCUSDT"
+timeframe: "1min"
+strategy: RSI
